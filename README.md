@@ -10,11 +10,11 @@ Sou um desenvolvedor web apaixonado por criar soluções eficientes e escalávei
 Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e contribuir com a comunidade de tecnologia.
 🛠️ Tecnologias e Ferramentas
 
-    Linguagens: PHP, JavaScript
-    Frameworks: Laravel, Vue.js
-    Banco de Dados: MySQL
-    Ferramentas: Docker, Git, Composer
-    Outros: REST APIs, Testes Automatizados, Integração Contínua
+    -Linguagens: PHP, JavaScript
+    -Frameworks: Laravel, Vue.js
+    -Banco de Dados: MySQL
+    -Ferramentas: Docker, Git, Composer
+    -Outros: REST APIs, Testes Automatizados, Integração Contínua
 
 🌟 Projetos em Destaque
 Sistema de Gestão de Clientes
@@ -36,7 +36,7 @@ Tecnologias: PHP, Laravel, Stripe
 
 📌 Objetivos para 2025
 
-    Transição completa para o mercado de TI com foco em desenvolvimento web.
-    Trabalhar em projetos desafiadores e inovadores na área de PHP e Laravel.
-    Contribuir para a comunidade de código aberto e compartilhar conhecimento.
+    -Transição completa para o mercado de TI com foco em desenvolvimento web.
+    -Trabalhar em projetos desafiadores e inovadores na área de PHP e Laravel.
+    -Contribuir para a comunidade de código aberto e compartilhar conhecimento.
 
